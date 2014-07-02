@@ -1,0 +1,30 @@
+category_id,parent_id,name,top,columns,sort_order,image_name,date_added,date_modified,language_id,seo_keyword,description,meta_description,meta_keywords,store_ids,layout,"status
+enabled"
+80,0,Protectores de Página,false,1,0,,2014-03-11 14:37:21,2014-05-29 11:14:12,2,,,Protectores de Página,Protectores de Página,0,,true
+67,0,Albumes,true,1,2,,2014-01-29 18:33:47,2014-02-17 12:32:40,2,,,"Album, albumes, albun, albums","album, albums, albun, albumes",0,,true
+74,0,Embellecedores,true,1,3,,2014-02-17 12:29:19,2014-02-17 12:32:54,2,,,embellecedores,embellecedores,0,,true
+64,0,Kits Rie ,true,1,4,,2014-01-22 16:38:53,2014-04-21 12:49:29,2,,,"Kits, kit","Kits, kit",0,,true
+65,0,Project Life,true,1,5,,2014-01-24 15:43:52,2014-02-17 12:33:53,2,,,"Project, Life, project","Project, Life, project",0,,true
+69,0,Cursos,true,1,6,,2014-01-29 20:07:06,2014-02-17 12:34:22,2,,,cursos,cursos,0,,true
+70,0,Impresion,true,1,7,,2014-02-14 12:41:35,2014-02-17 13:57:14,2,,,impresion,impresion,0,,true
+75,0,Gratuitos,true,1,8,,2014-02-17 13:09:38,2014-02-17 13:10:06,2,,,"gratuitos, gratis","gratuitos, gratis",0,,true
+100,64,Mini Kits Rie,false,1,0,,2014-05-29 12:27:20,2014-05-29 12:27:20,2,,,Mini Kits Rie,Mini Kits Rie,0,,true
+66,65,Papel,false,1,0,,2014-01-26 14:38:26,2014-04-21 08:43:00,2,,,,,0,,true
+68,65,Photopockets,true,1,0,,2014-01-29 18:34:54,2014-04-21 12:57:18,2,,,"Photopockets, photo","Photopockets, photo",0,,true
+85,65,Accesorios Project Life,false,1,0,,2014-03-17 13:53:50,2014-04-21 14:00:56,2,,,Accesorios Project Life,Accesorios Project Life,0,,true
+94,65,Mini Kits Project Life,false,1,0,,2014-04-02 13:57:24,2014-05-29 11:13:17,2,,,Mini Kits Project Life,Mini Kits Project Life,0,,true
+96,65,Tarjetas Tematicas,false,1,0,,2014-04-21 13:49:26,2014-05-29 11:12:24,2,,,"Tarjetas Tematicas, tarjetas, tematicas","Tarjetas Tematicas, tarjetas, tematicas",0,,true
+76,67,Albumes de tela 12 x 12 ,false,1,0,,2014-03-10 13:46:24,2014-05-29 11:30:39,2,,,"tela, 12 x 12","tela, 12 x 12",0,,true
+77,67, Albumes de diseñador 12 x12 ,false,1,0,,2014-03-10 14:18:22,2014-05-29 11:29:56,2,,,12x12 álbumes de diseñador,12x12 álbumes de diseñador,0,,true
+78,67,Albumes 6x8,false,1,0,,2014-03-11 13:08:11,2014-05-28 08:47:10,2,,,6x8 de cuero de imitación,6x8 de cuero de imitación,0,,true
+79,67,Mini Albumes 9 x 8,false,1,0,,2014-03-11 13:23:31,2014-03-11 13:23:31,2,,,Mini Albumes 9 x 8,Mini Albumes 9 x 8,0,,true
+60,74,Tapes,true,1,0,,2014-01-22 14:09:34,2014-02-17 12:29:55,2,,,"Tapes, Tape, Pegamento","Tapes, Tape, Pegamento",0,,true
+63,74,Stickers,true,1,0,,2014-01-22 14:49:30,2014-02-17 12:29:41,2,,,"sticker, stickers","sticker, stickers",0,,true
+97,74,Stamp - Sellos ,false,1,0,,2014-04-21 14:07:51,2014-04-21 14:08:23,2,,,,,0,,true
+98,74,Cintas y bordes,false,1,0,,2014-05-29 11:35:42,2014-05-29 11:35:42,2,,,Cintas y bordes,Cintas y bordes,0,,true
+99,74,Papel,false,1,0,,2014-05-29 12:22:19,2014-05-29 12:22:19,2,,,"papel , 12x12 , sheets","papel , 12x12 , sheets",0,,true
+87,85,Divisores de Diseñador,false,1,0,,2014-03-18 15:12:37,2014-03-18 15:12:37,2,,,Divisores de Diseñador,Divisores de Diseñador,0,,true
+88,85,Paginas de Sobre,false,1,0,,2014-03-19 13:26:41,2014-03-19 13:26:41,2,,,,,0,,true
+89,85,Organización y Herramientas,false,1,0,,2014-03-19 13:46:49,2014-03-19 13:46:49,2,,,Organización y Herramientas,Organización y Herramientas,0,,true
+91,85,Basicos de Project Life,false,1,0,,2014-03-25 14:16:56,2014-03-25 14:16:56,2,,,Basicos de Project Life,Basicos de Project Life,0,,true
+92,85,Stickers,false,1,0,,2014-03-31 14:02:55,2014-03-31 14:02:55,2,,,Stickers,Stickers,0,,true
